@@ -1,0 +1,217 @@
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.exe
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.deps.json
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.dev.json
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.dll
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\ref\WinFormsApp2.dll
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.pdb
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CopyComplete
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.dll
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\ref\WinFormsApp2.dll
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.pdb
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\todzu\Downloads\WinFormsApp2test\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.exe
+C:\Users\todzu\Downloads\WinFormsApp2test\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.deps.json
+C:\Users\todzu\Downloads\WinFormsApp2test\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\todzu\Downloads\WinFormsApp2test\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.dev.json
+C:\Users\todzu\Downloads\WinFormsApp2test\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.dll
+C:\Users\todzu\Downloads\WinFormsApp2test\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\ref\WinFormsApp2.dll
+C:\Users\todzu\Downloads\WinFormsApp2test\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.pdb
+C:\Users\todzu\Downloads\WinFormsApp2test\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\todzu\Downloads\WinFormsApp2test\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\todzu\Downloads\WinFormsApp2test\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\todzu\Downloads\WinFormsApp2test\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\todzu\Downloads\WinFormsApp2test\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\todzu\Downloads\WinFormsApp2test\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\todzu\Downloads\WinFormsApp2test\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\todzu\Downloads\WinFormsApp2test\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formCreateOrder.resources
+C:\Users\todzu\Downloads\WinFormsApp2test\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formDelivery.resources
+C:\Users\todzu\Downloads\WinFormsApp2test\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formKitchen.resources
+C:\Users\todzu\Downloads\WinFormsApp2test\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formLogin.resources
+C:\Users\todzu\Downloads\WinFormsApp2test\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formManager.resources
+C:\Users\todzu\Downloads\WinFormsApp2test\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\todzu\Downloads\WinFormsApp2test\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\todzu\Downloads\WinFormsApp2test\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\todzu\Downloads\WinFormsApp2test\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\todzu\Downloads\WinFormsApp2test\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\todzu\Downloads\WinFormsApp2test\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.dll
+C:\Users\todzu\Downloads\WinFormsApp2test\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\ref\WinFormsApp2.dll
+C:\Users\todzu\Downloads\WinFormsApp2test\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.pdb
+C:\Users\todzu\Downloads\WinFormsApp2test\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formCreateOrder.resources
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formDelivery.resources
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formKitchen.resources
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formLogin.resources
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formManager.resources
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\brgmb\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formRegistration.resources
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formCreateOrder.resources
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formDelivery.resources
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formKitchen.resources
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formLogin.resources
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formManager.resources
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formRegistration.resources
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.dll
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\obj\Debug\net5.0-windows\ref\WinFormsApp2.dll
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.pdb
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.exe
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.deps.json
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.dev.json
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.dll
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\bin\Debug\net5.0-windows\ref\WinFormsApp2.dll
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.pdb
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CopyComplete
+C:\Users\brgmb\source\repos\task-5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.exe
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.deps.json
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.dll
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\bin\Debug\net5.0-windows\ref\WinFormsApp2.dll
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.pdb
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formCreateOrder.resources
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formDelivery.resources
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formKitchen.resources
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formLogin.resources
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formManager.resources
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formRegistration.resources
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CopyComplete
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.dll
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\obj\Debug\net5.0-windows\ref\WinFormsApp2.dll
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.pdb
+C:\Users\Admin\Documents\SAS\task--5-master\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.exe
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.deps.json
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.dev.json
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.dll
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\bin\Debug\net5.0-windows\ref\WinFormsApp2.dll
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.pdb
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formCreateOrder.resources
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formDelivery.resources
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formKitchen.resources
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formLogin.resources
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formManager.resources
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formRegistration.resources
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CopyComplete
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.dll
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\obj\Debug\net5.0-windows\ref\WinFormsApp2.dll
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.pdb
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\brgmb\OneDrive\Рабочий стол\Новая папка\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.DataAccess.DbFailure.resources
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.exe
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.deps.json
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.dev.json
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.dll
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\bin\Debug\net5.0-windows\ref\WinFormsApp2.dll
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.pdb
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.DataAccess.DbFailure.resources
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formCreateOrder.resources
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formDelivery.resources
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formKitchen.resources
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formLogin.resources
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formManager.resources
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formRegistration.resources
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CopyComplete
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.dll
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\obj\Debug\net5.0-windows\ref\WinFormsApp2.dll
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.pdb
+C:\Users\Admin\Documents\SAS\321\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.DataAccess.DbFailure.resources
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formCreateOrder.resources
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formDelivery.resources
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formKitchen.resources
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formLogin.resources
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formManager.resources
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.formRegistration.resources
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.dll
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\obj\Debug\net5.0-windows\ref\WinFormsApp2.dll
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.pdb
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.exe
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.deps.json
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.dev.json
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.dll
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\bin\Debug\net5.0-windows\ref\WinFormsApp2.dll
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.pdb
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CopyComplete
+C:\Users\brgmb\source\repos\task5\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.genruntimeconfig.cache

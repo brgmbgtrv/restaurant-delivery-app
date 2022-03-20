@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="DataAccess\DbFailure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formCreateOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formDelivery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formKitchen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
